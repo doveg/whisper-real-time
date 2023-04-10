@@ -1,6 +1,6 @@
 # Whisper Real Time Document
 
-whisper-real-time
+Project whisper-real-time.
 
 ## Project description
 
@@ -116,7 +116,9 @@ verified in other systems such as Mac and Linux, so there may be some bugs on th
 
 ## Reference
 
-Official Website: http://doverank.com
+Official Website: https://doverank.com
+
+Document: https://doverank.com/blog/003
 
 GitHub: https://github.com/bourneo/whisper-real-time
 
