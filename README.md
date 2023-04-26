@@ -120,5 +120,5 @@ Official Website: https://doverank.com
 
 Document: https://doverank.com/blog/003
 
-GitHub: https://github.com/bourneo/whisper-real-time
+GitHub: https://github.com/doveu/whisper-real-time
 
