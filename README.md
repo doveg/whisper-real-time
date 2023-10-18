@@ -116,9 +116,9 @@ verified in other systems such as Mac and Linux, so there may be some bugs on th
 
 ## Reference
 
-Official Website: https://doverank.com
+Official Website: https://dovej.com
 
-Document: https://doverank.com/blog/003
+Document: https://dovej.com/blog/003
 
-GitHub: https://github.com/doveu/whisper-real-time
+GitHub: https://github.com/doveg/whisper-real-time
 
