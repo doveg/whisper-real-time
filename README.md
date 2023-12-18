@@ -118,7 +118,7 @@ verified in other systems such as Mac and Linux, so there may be some bugs on th
 
 Official Website: https://dovej.com
 
-Document: https://dovej.com/blog/003
+Document: https://www.dovej.com/blog/003-whisper-real-time-document
 
 GitHub: https://github.com/doveg/whisper-real-time
 
