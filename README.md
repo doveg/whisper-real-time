@@ -114,11 +114,5 @@ result better.
 Python can be run on varies of operating systems, but whisper-real-time was developed on Windows system, hadn't been
 verified in other systems such as Mac and Linux, so there may be some bugs on these systems...
 
-## Reference
 
-Official Website: https://dovej.com
-
-Document: https://www.dovej.com/blog/003-whisper-real-time-document
-
-GitHub: https://github.com/doveg/whisper-real-time
 
